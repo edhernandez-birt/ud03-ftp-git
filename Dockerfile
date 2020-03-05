@@ -1,6 +1,6 @@
 # Dockerfile para UD03 DEAW
 # A partir de la imagen tar de Nora
-# Alumno Eduardo Hernández García
+# Alumno Eduardo Hernández García Retoque
 
 FROM imagen-ud3:latest
 
